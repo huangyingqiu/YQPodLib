@@ -1,0 +1,6 @@
+framework module YQPodLib {
+  umbrella header "YQPodLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

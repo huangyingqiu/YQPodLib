@@ -1,0 +1,16 @@
+PODS:
+  - YQPodLib (0.1.0)
+
+DEPENDENCIES:
+  - YQPodLib (from `../`)
+
+EXTERNAL SOURCES:
+  YQPodLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YQPodLib: 6b084cc6d336b625e96dcb150aa841a1b9e5369f
+
+PODFILE CHECKSUM: ffbe022b670207dd6a48f8f7c71e8d9ac8be1e91
+
+COCOAPODS: 1.3.0.rc.1
