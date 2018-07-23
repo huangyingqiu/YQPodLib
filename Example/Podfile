@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YQPodLib_Example' do
+  pod 'YQPodLib', :path => '../'
+
+  target 'YQPodLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
